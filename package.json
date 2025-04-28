@@ -1,0 +1,9 @@
+{
+  "name": "mta-script",
+  "version": "1.0.0",
+  "main": "fetch_mta.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "gtfs-realtime-bindings": "^1.1.1"
+  }
+} 
